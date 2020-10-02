@@ -68,7 +68,7 @@ printf "\e[1;92m[\e[0m +\e[1;92m ]\e[0m \e[1;93mENTER LOG FILE NAME >>> \e[0m\n"
 read -p '---------------> ' log
 
 printf "\n"
-printf ">>>\e[1;92m ATTACKING START ON +91$num \e[0m<<<"
+printf ">>>\e[1;92m ATTACKING START ON +6$num \e[0m<<<"
 sleep 5
 printf "\n"
 printf "PRESS CLTR+C TO QUIT ............. \n"
